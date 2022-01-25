@@ -25,5 +25,8 @@ working_km = (distance * 2) * 7
 
 # Per ottenere la soluzione della nostra proporzione ((ending_km -  starting_km) : 100 = working_km : x) non è
 # necessario infilare tutto all'interno di una variabile possiamo direttamente far eseguire tutto nella print come
-# riportato di seguito
-print('La percentuale di utilizzo del veicolo è:', (working_km * 100)/(ending_km - starting_km), '%')
+# riportato di seguito. L'utilizzo di nuove variabili va intuito in base alla situazione
+print('La percentuale di utilizzo del veicolo per motivi lavorativi è:', (working_km * 100)/(ending_km - starting_km),
+      '%')
+print('La percentuale di utilizzo del veicolo per svago invece è:', 100 - (working_km * 100)/(ending_km - starting_km),
+      '%')
