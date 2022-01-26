@@ -8,3 +8,11 @@
 # Scrivete un programma che chieda all’utente un anno e determini se si tratta di un
 # anno bisestile. Valutare anche se è possibile implementare il programma usando un
 # unico enunciato if (con gli opportuni operatori booleani).
+
+# @param year conterrà l'anno su cui effettuare le operazioni richieste
+year = int(input('Inserire un anno per vedere se esso è bisestile: '))
+
+if year % 4 == 0 and (year % 100 != 0 or year % 400 == 0):
+    print("L'anno %d è bisestile." % year)
+else:
+    print("L'anno %d NON è bisestile." % year)
