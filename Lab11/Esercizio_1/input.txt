@@ -1,0 +1,22 @@
+Nel corso del weekend un bug relativo al multiplayer di Dark Souls ha portato FromSoftware
+a dover rimuovere l’accesso ai server delle versioni PC. Un problema che però potrebbe essere
+decisamente più grave del previsto, considerata l’ultima mossa del team di sviluppo.
+Come riportato su Steam, infatti, ora tutti e tre i giochi di Dark Souls non hanno più nessun
+riferimento al multiplayer. Fino a poche ore fa tutti e tre i titoli includevano le tag relative al
+multiplayer, ma ora sono completamente scomparse, come fatto notare da un utente del client di Valve.
+E ci sono due possibili ragioni per cui tutto ciò sia accaduto, una decisamente più preoccupante rispetto
+all’altra.
+Il primo scenario è ovviamente quello dell’intervento. FromSoftware aveva dichiarato che i server
+non sarebbero stati accessibili in via temporanea per poter correggere l’exploit. In questo caso
+nulla di preoccupante: una volta che il team di sviluppo avrà risolto il tutto, le tag torneranno.
+Conservarle in questo momento, tra l’altro, significherebbe anche essere accusati di falsa pubblicità,
+visto che il comparto multiplayer non è accessibile. Il secondo scenario, invece, è quello peggiore. Se
+l’exploit è decisamente troppo complesso a risolvere, il team di sviluppo potrebbe aver deciso
+semplicemente di non riattivare più la modalità online.
+Al momento non giungono comunicazioni da parte di FromSoftware, dunque vi invitiamo a prendere
+questi due scenari con le pinze. Nel corso delle prossime ore, se il team di sviluppo lo riterrà
+necessario, interverrà direttamente per smentire o confermare queste ipotesi. Vi ricordiamo,
+infine, che il multiplayer dei giochi di Dark Souls è attivo su console,
+visto che le versioni PlayStation 4, Nintendo Switch e Xbox One non sono afflitte dall’exploit.
+Continuate a seguire Tom’s Hardware per tutte le novità e gli annunci in dirittura d’arrivo dal mondo
+dei videogiochi.

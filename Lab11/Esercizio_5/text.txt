@@ -1,0 +1,2 @@
+Il *** è un linguaggio di programmazione di alto livello successore del C.
+ Esso è una sua evoluzione e un avanzamento verso linguaggi sempre più adatti all'uomo. 
